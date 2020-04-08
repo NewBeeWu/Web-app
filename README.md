@@ -1,7 +1,7 @@
 # Web-app
 My Web App  
-Just for fun  
 Fighting!
+Hold on!
 
 React JS  
 JavaScript
